@@ -1,0 +1,18 @@
+test_1_change_wt (__main__.MonteCarloTestSuite) ... ok
+test_2_change_wt (__main__.MonteCarloTestSuite) ... ok
+test_3_change_wt (__main__.MonteCarloTestSuite) ... ok
+test_4_roll_die (__main__.MonteCarloTestSuite) ... ok
+test_5_current_die (__main__.MonteCarloTestSuite) ... ok
+test_6_play (__main__.MonteCarloTestSuite) ... ok
+test_7_show (__main__.MonteCarloTestSuite) ... ok
+test_8_show (__main__.MonteCarloTestSuite) ... ok
+test_9_show (__main__.MonteCarloTestSuite) ... ok
+test_10_jackpot (__main__.MonteCarloTestSuite) ... ok
+test_11_jackpot (__main__.MonteCarloTestSuite) ... ok
+test_12_combo (__main__.MonteCarloTestSuite) ... ok
+test_13_face_counts_per_roll (__main__.MonteCarloTestSuite) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.257s
+
+OK
